@@ -1,4 +1,4 @@
-![Social banner for awesomesk1ll](https://github.com/awesomesk1ll/about/blob/main/banner.svg)
+<!--- ![Social banner for awesomesk1ll](https://github.com/awesomesk1ll/about/blob/main/banner.svg) --->
 
 # Hi, welcome to my page! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width:100%;">
 
